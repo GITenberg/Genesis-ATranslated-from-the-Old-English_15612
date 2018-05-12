@@ -22,6 +22,8 @@ creator:
 description: The text upon which this work is based is that of the Grein-Wülker Bibliothek
   der Angelsächsischen Poesie, 1894, save for a few minor changes in punctuation and
   the few departures recorded in the Notes.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15612#Genesis-ATranslated-from-the-Old-English
 gutenberg_issued: '2005-04-13'
 gutenberg_type: Text
 identifiers:
