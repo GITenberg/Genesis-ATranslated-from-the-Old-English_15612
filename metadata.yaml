@@ -1,0 +1,40 @@
+_repo: Genesis-ATranslated-from-the-Old-English_15612
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Mason, Lawrence
+    birthdate: 1882
+    deathdate: 1939
+    gutenberg_agent_id: '6173'
+    url: http://www.gutenberg.org/2009/agents/6173
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Cook, Albert S. (Albert Stanburrough)
+    alias: Cook, Albert Stanburrough
+    birthdate: 1853
+    deathdate: 1927
+    gutenberg_agent_id: '5565'
+    url: http://www.gutenberg.org/2009/agents/5565
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Stanburrough_Cook
+description: The text upon which this work is based is that of the Grein-Wülker Bibliothek
+  der Angelsächsischen Poesie, 1894, save for a few minor changes in punctuation and
+  the few departures recorded in the Notes.
+gutenberg_issued: '2005-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15612'
+language: en
+publication_note: "New York\r\nHenry Holt And Company\r\n1915"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry -- Early works to 1800'
+- !lcc 'PR'
+title: 'Genesis A
+
+  Translated from the Old English'
+url: http://www.gutenberg.org/ebooks/15612
